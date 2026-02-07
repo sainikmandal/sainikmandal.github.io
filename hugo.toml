@@ -1,0 +1,17 @@
+baseURL = "https://sainikmandal.github.io/"
+languageCode = "en-us"
+title = "Sainik Mandal"
+theme = "PaperMod"
+
+[params.profileMode]
+enabled = true
+title = "Sainik Mandal"
+subtitle = "Backend Developer • Go • Systems"
+
+[[params.profileMode.buttons]]
+name = "Blog"
+url = "/posts"
+
+[[params.profileMode.buttons]]
+name = "About"
+url = "/about"
